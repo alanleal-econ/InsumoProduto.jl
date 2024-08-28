@@ -13,7 +13,5 @@ include("multiplicadores_produção.jl")
 export multiplicadores_produção
 include("multiplicadores_produção_truncado.jl")
 export multiplicadores_produção_truncado
-include("multiplicadores_tabela.jl")
-export multiplicadores_tabela
 
 end # module InsumoProduto
