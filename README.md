@@ -12,7 +12,7 @@ Este é um pacote que implementa os seguintes métodos de insumo-produto na Juli
 2) inversa de Leontief;
 3) Multiplicadores da Produção (Simples e Truncados) e do Emprego;
 4) Índices de Ligação para Frente e para Trás, com identificação dos setores-chaves da economia;
-5) Extração Hipotética - setorial numa unidade regional ou multirreginal. 
+5) Extração Hipotética - setorial numa unidade regional ou multirregional. 
 
 Este é um pacote em estágio inicial, logo novos métodos e funções serão adicionados aos pacotes nos próximos meses. 
 
