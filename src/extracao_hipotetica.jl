@@ -1,7 +1,7 @@
 using LinearAlgebra
 function extracao_hipotetica(A,setor,y)
     B=inversa_leontief(I(size(A)[1])-A)
-    A_hip=A
+    A_hip=copy(A)
     A_hip[setor,:].=0   
     A_hip[:,setor].=0
     B_hip=inversa_leontief(I(size(A)[1])-A_hip)
