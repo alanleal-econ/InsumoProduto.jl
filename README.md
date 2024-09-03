@@ -21,7 +21,7 @@ Dúvidas e questões devem ser direcionados a Alan Leal, através deste [e-mail]
 
 **Agradecimentos**
 
-Este pacote se beneficiou direta e indiretamente do esforço de diferentes professores e/ou pesquisadores brasileiros especializados nos métodos de insumo-produto. Com risco de não citar todos as pessoas relevantes, o autor deste pacote agradece Prof. Eduardo A. Haddad (FEA-USP), Prof. José Guilhoto (FMI), Prof. Fernando Perobelli (UFJF) e Prof. Vinícius Valle (UFPR). Materiais de aula, artigos científicos, dados e códigos de outras disciplinas foram utilizados na elaboração deste pacote na Julia. Quaisquer erros e omissões são, contudo, responsabilidade única do autor deste pacote. 
+Este pacote se beneficiou direta e indiretamente do esforço de diferentes professores e/ou pesquisadores brasileiros especializados nos métodos de insumo-produto. Com risco de não citar todos as pessoas relevantes, o autor deste pacote agradece Prof. Eduardo A. Haddad (FEA-USP), Prof. Joaquim Guilhoto (FMI), Prof. Fernando Perobelli (UFJF) e Prof. Vinícius Valle (UFPR). Materiais de aula, artigos científicos, dados e códigos de outras disciplinas foram utilizados na elaboração deste pacote na Julia. Quaisquer erros e omissões são, contudo, responsabilidade única do autor deste pacote. 
 
 **Citação**
 
