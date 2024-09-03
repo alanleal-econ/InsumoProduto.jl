@@ -13,5 +13,9 @@ include("multiplicadores_produção.jl")
 export multiplicadores_produção
 include("multiplicadores_produção_truncado.jl")
 export multiplicadores_produção_truncado
+include("extracao_hipotetica.jl")
+export extracao_hipotetica
+include("multiplicadores_emprego.jl")
+export multiplicadores_emprego
 
 end # module InsumoProduto
